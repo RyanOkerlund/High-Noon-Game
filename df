@@ -1,0 +1,51 @@
+[33mcommit ca38d935b2a39b5d0bd24ad660cb5fb448b8d6e5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: RyanOkerlund <ryanokerlund13@gmail.com>
+Date:   Fri Sep 6 22:36:40 2019 -0600
+
+    Working on Aim Slider Mechanic
+
+[33mcommit b2e3ea9c12a8a939f6af8b14a51d468b7342a8f8[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: RyanOkerlund <ryanokerlund13@gmail.com>
+Date:   Thu Sep 5 22:30:02 2019 -0600
+
+    In The Beginning...
+    
+    -Basic environment and character models to test fundamental game mechanics.
+
+[33mcommit 1fb31a10c8886d70def07cd2d2627a8123be7cf2[m
+Author: RyanOkerlund <ryanokerlund13@gmail.com>
+Date:   Thu Sep 5 15:32:06 2019 -0600
+
+    Adding Unity Project Cont.
+    
+    Basic Setup
+
+[33mcommit 0a146851519ebe98a40b2c9b65895716078050fd[m
+Author: RyanOkerlund <ryanokerlund13@gmail.com>
+Date:   Thu Sep 5 15:30:03 2019 -0600
+
+    Adding Unity Project Cont.
+
+[33mcommit 49f8cbf47f48b0df3bb2f6016e74089d9b03b912[m
+Author: RyanOkerlund <ryanokerlund13@gmail.com>
+Date:   Thu Sep 5 15:29:44 2019 -0600
+
+    Added the Unity Project
+
+[33mcommit 99898b5db9fde8175108e16ede7a0f852817e920[m
+Author: RyanOkerlund <48189535+RyanOkerlund@users.noreply.github.com>
+Date:   Thu Sep 5 15:22:03 2019 -0600
+
+    Update .gitignore
+
+[33mcommit 22f518950a50e9e3666e86551a4998563453e390[m
+Author: RyanOkerlund <48189535+RyanOkerlund@users.noreply.github.com>
+Date:   Thu Sep 5 15:21:20 2019 -0600
+
+    Update README.md
+
+[33mcommit 9d32d7e4e634f4c8fdfed106e20eefccb6a9535e[m
+Author: RyanOkerlund <48189535+RyanOkerlund@users.noreply.github.com>
+Date:   Thu Sep 5 15:20:41 2019 -0600
+
+    Initial commit
